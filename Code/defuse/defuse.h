@@ -36,7 +36,7 @@ typedef struct op_profile
 beep_profile beeps[] =
 {
   {10, '*'},
-  {15, '#'},
+  {15, '7'},
   {20, '0'},
   {25, '3'}
 };
